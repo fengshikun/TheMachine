@@ -12,6 +12,17 @@
 		20B6EE531AB5B79200F67CBA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20B6EE521AB5B79200F67CBA /* Images.xcassets */; };
 		20B6EE561AB5B79200F67CBA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20B6EE541AB5B79200F67CBA /* LaunchScreen.xib */; };
 		20B6EE621AB5B79300F67CBA /* TheMachineTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 20B6EE611AB5B79300F67CBA /* TheMachineTests.m */; };
+		20B6EE6E1AB5B90500F67CBA /* TMDataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20B6EE6C1AB5B90500F67CBA /* TMDataViewController.m */; };
+		20B6EE6F1AB5B90500F67CBA /* TMDataViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20B6EE6D1AB5B90500F67CBA /* TMDataViewController.xib */; };
+		20B6EE731AB5CAE700F67CBA /* TMPredictViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20B6EE711AB5CAE700F67CBA /* TMPredictViewController.m */; };
+		20B6EE741AB5CAE700F67CBA /* TMPredictViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20B6EE721AB5CAE700F67CBA /* TMPredictViewController.xib */; };
+		20CA4EAB1AC7A4EB00C27EE7 /* ConfigViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20CA4EA91AC7A4EB00C27EE7 /* ConfigViewController.m */; };
+		20CA4EAC1AC7A4EB00C27EE7 /* ConfigViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 20CA4EAA1AC7A4EB00C27EE7 /* ConfigViewController.xib */; };
+		20CA4EAF1AC7C8E100C27EE7 /* NeuralConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 20CA4EAE1AC7C8E100C27EE7 /* NeuralConfig.m */; };
+		20CA4EB21AC83B1F00C27EE7 /* NeuralNetwork.m in Sources */ = {isa = PBXBuildFile; fileRef = 20CA4EB11AC83B1F00C27EE7 /* NeuralNetwork.m */; };
+		20CA4EB61AC9A6F900C27EE7 /* fly@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20CA4EB31AC9A6F900C27EE7 /* fly@2x.png */; };
+		20CA4EB71AC9A6F900C27EE7 /* load@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20CA4EB41AC9A6F900C27EE7 /* load@2x.png */; };
+		20CA4EB81AC9A6F900C27EE7 /* set@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20CA4EB51AC9A6F900C27EE7 /* set@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +46,22 @@
 		20B6EE5B1AB5B79200F67CBA /* TheMachineTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheMachineTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B6EE601AB5B79200F67CBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		20B6EE611AB5B79300F67CBA /* TheMachineTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TheMachineTests.m; sourceTree = "<group>"; };
+		20B6EE6B1AB5B90500F67CBA /* TMDataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMDataViewController.h; sourceTree = "<group>"; };
+		20B6EE6C1AB5B90500F67CBA /* TMDataViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMDataViewController.m; sourceTree = "<group>"; };
+		20B6EE6D1AB5B90500F67CBA /* TMDataViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TMDataViewController.xib; sourceTree = "<group>"; };
+		20B6EE701AB5CAE700F67CBA /* TMPredictViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TMPredictViewController.h; sourceTree = "<group>"; };
+		20B6EE711AB5CAE700F67CBA /* TMPredictViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TMPredictViewController.m; sourceTree = "<group>"; };
+		20B6EE721AB5CAE700F67CBA /* TMPredictViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TMPredictViewController.xib; sourceTree = "<group>"; };
+		20CA4EA81AC7A4EB00C27EE7 /* ConfigViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConfigViewController.h; sourceTree = "<group>"; };
+		20CA4EA91AC7A4EB00C27EE7 /* ConfigViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConfigViewController.m; sourceTree = "<group>"; };
+		20CA4EAA1AC7A4EB00C27EE7 /* ConfigViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConfigViewController.xib; sourceTree = "<group>"; };
+		20CA4EAD1AC7C8E100C27EE7 /* NeuralConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NeuralConfig.h; sourceTree = "<group>"; };
+		20CA4EAE1AC7C8E100C27EE7 /* NeuralConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NeuralConfig.m; sourceTree = "<group>"; };
+		20CA4EB01AC83B1F00C27EE7 /* NeuralNetwork.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NeuralNetwork.h; sourceTree = "<group>"; };
+		20CA4EB11AC83B1F00C27EE7 /* NeuralNetwork.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NeuralNetwork.m; sourceTree = "<group>"; };
+		20CA4EB31AC9A6F900C27EE7 /* fly@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fly@2x.png"; sourceTree = "<group>"; };
+		20CA4EB41AC9A6F900C27EE7 /* load@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "load@2x.png"; sourceTree = "<group>"; };
+		20CA4EB51AC9A6F900C27EE7 /* set@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "set@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +103,24 @@
 		20B6EE4A1AB5B79200F67CBA /* TheMachine */ = {
 			isa = PBXGroup;
 			children = (
+				20CA4EB31AC9A6F900C27EE7 /* fly@2x.png */,
+				20CA4EB41AC9A6F900C27EE7 /* load@2x.png */,
+				20CA4EB51AC9A6F900C27EE7 /* set@2x.png */,
 				20B6EE4F1AB5B79200F67CBA /* AppDelegate.h */,
 				20B6EE501AB5B79200F67CBA /* AppDelegate.m */,
+				20B6EE6B1AB5B90500F67CBA /* TMDataViewController.h */,
+				20B6EE6C1AB5B90500F67CBA /* TMDataViewController.m */,
+				20B6EE6D1AB5B90500F67CBA /* TMDataViewController.xib */,
+				20B6EE701AB5CAE700F67CBA /* TMPredictViewController.h */,
+				20B6EE711AB5CAE700F67CBA /* TMPredictViewController.m */,
+				20B6EE721AB5CAE700F67CBA /* TMPredictViewController.xib */,
+				20CA4EA81AC7A4EB00C27EE7 /* ConfigViewController.h */,
+				20CA4EA91AC7A4EB00C27EE7 /* ConfigViewController.m */,
+				20CA4EAA1AC7A4EB00C27EE7 /* ConfigViewController.xib */,
+				20CA4EAD1AC7C8E100C27EE7 /* NeuralConfig.h */,
+				20CA4EB01AC83B1F00C27EE7 /* NeuralNetwork.h */,
+				20CA4EB11AC83B1F00C27EE7 /* NeuralNetwork.m */,
+				20CA4EAE1AC7C8E100C27EE7 /* NeuralConfig.m */,
 				20B6EE521AB5B79200F67CBA /* Images.xcassets */,
 				20B6EE541AB5B79200F67CBA /* LaunchScreen.xib */,
 				20B6EE4B1AB5B79200F67CBA /* Supporting Files */,
@@ -192,7 +235,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				20B6EE561AB5B79200F67CBA /* LaunchScreen.xib in Resources */,
+				20CA4EB71AC9A6F900C27EE7 /* load@2x.png in Resources */,
 				20B6EE531AB5B79200F67CBA /* Images.xcassets in Resources */,
+				20B6EE6F1AB5B90500F67CBA /* TMDataViewController.xib in Resources */,
+				20CA4EB61AC9A6F900C27EE7 /* fly@2x.png in Resources */,
+				20B6EE741AB5CAE700F67CBA /* TMPredictViewController.xib in Resources */,
+				20CA4EB81AC9A6F900C27EE7 /* set@2x.png in Resources */,
+				20CA4EAC1AC7A4EB00C27EE7 /* ConfigViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,8 +259,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20CA4EAF1AC7C8E100C27EE7 /* NeuralConfig.m in Sources */,
 				20B6EE511AB5B79200F67CBA /* AppDelegate.m in Sources */,
 				20B6EE4E1AB5B79200F67CBA /* main.m in Sources */,
+				20CA4EAB1AC7A4EB00C27EE7 /* ConfigViewController.m in Sources */,
+				20B6EE6E1AB5B90500F67CBA /* TMDataViewController.m in Sources */,
+				20B6EE731AB5CAE700F67CBA /* TMPredictViewController.m in Sources */,
+				20CA4EB21AC83B1F00C27EE7 /* NeuralNetwork.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -394,6 +448,7 @@
 				20B6EE671AB5B79300F67CBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		20B6EE681AB5B79300F67CBA /* Build configuration list for PBXNativeTarget "TheMachineTests" */ = {
 			isa = XCConfigurationList;
@@ -402,6 +457,7 @@
 				20B6EE6A1AB5B79300F67CBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
