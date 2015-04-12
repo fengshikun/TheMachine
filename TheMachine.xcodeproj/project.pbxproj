@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		209627AB1ADA9D5C00C5B876 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 209627AA1ADA9D5C00C5B876 /* CoreLocation.framework */; };
 		20B6EE4E1AB5B79200F67CBA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 20B6EE4D1AB5B79200F67CBA /* main.m */; };
 		20B6EE511AB5B79200F67CBA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 20B6EE501AB5B79200F67CBA /* AppDelegate.m */; };
 		20B6EE531AB5B79200F67CBA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20B6EE521AB5B79200F67CBA /* Images.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		209627AA1ADA9D5C00C5B876 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		20B6EE481AB5B79200F67CBA /* TheMachine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheMachine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B6EE4C1AB5B79200F67CBA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		20B6EE4D1AB5B79200F67CBA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				209627AB1ADA9D5C00C5B876 /* CoreLocation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +88,7 @@
 		20B6EE3F1AB5B79200F67CBA = {
 			isa = PBXGroup;
 			children = (
+				209627AA1ADA9D5C00C5B876 /* CoreLocation.framework */,
 				20B6EE4A1AB5B79200F67CBA /* TheMachine */,
 				20B6EE5E1AB5B79200F67CBA /* TheMachineTests */,
 				20B6EE491AB5B79200F67CBA /* Products */,

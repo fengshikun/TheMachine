@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>513BCE78-4CB3-4739-B638-301E3525DEB9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TheMachine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>70586F00D5A5184501AC35DE5B3A88948AC5CC0E</key>
+		<string>github.com:fengshikun/TheMachine.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TheMachine.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>70586F00D5A5184501AC35DE5B3A88948AC5CC0E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:fengshikun/TheMachine.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>70586F00D5A5184501AC35DE5B3A88948AC5CC0E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>70586F00D5A5184501AC35DE5B3A88948AC5CC0E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TheMachine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
